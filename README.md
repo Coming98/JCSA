@@ -1,2 +1,4 @@
-# JCSA
-Visualization System for Lexicon-based Sentiment Analysis
+# jcTextEmotionClfSystem
+Text emotion classification system based on emotion dictionary
+
+Test
